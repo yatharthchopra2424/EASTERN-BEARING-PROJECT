@@ -1,0 +1,32 @@
+2025-04-20 14:39:37,330 - streamlit_app.utilities - INFO - Logger configured.
+2025-04-20 14:40:59,378 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME AUG-2024_GRD.csv
+2025-04-20 14:40:59,433 - streamlit_app.utilities - INFO - Read 4012 rows from LOSS TIME AUG-2024_GRD.csv
+2025-04-20 14:40:59,878 - streamlit_app.utilities - INFO - Attempting bulk insert for 4012 records from LOSS TIME AUG-2024_GRD.csv...
+2025-04-20 14:41:00,014 - streamlit_app.utilities - INFO - Successfully inserted 4012 records from LOSS TIME AUG-2024_GRD.csv.
+2025-04-20 14:41:00,015 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME AUG-2024_GRD.csv
+2025-04-20 14:41:00,023 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME DEC-2024_GRD.csv
+2025-04-20 14:41:00,073 - streamlit_app.utilities - INFO - Read 2765 rows from LOSS TIME DEC-2024_GRD.csv
+2025-04-20 14:41:00,375 - streamlit_app.utilities - INFO - Attempting bulk insert for 2765 records from LOSS TIME DEC-2024_GRD.csv...
+2025-04-20 14:41:00,477 - streamlit_app.utilities - INFO - Successfully inserted 2765 records from LOSS TIME DEC-2024_GRD.csv.
+2025-04-20 14:41:00,478 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME DEC-2024_GRD.csv
+2025-04-20 14:41:00,482 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME JAN-2025_GRD.csv
+2025-04-20 14:41:00,528 - streamlit_app.utilities - INFO - Read 4688 rows from LOSS TIME JAN-2025_GRD.csv
+2025-04-20 14:41:01,045 - streamlit_app.utilities - INFO - Attempting bulk insert for 4688 records from LOSS TIME JAN-2025_GRD.csv...
+2025-04-20 14:41:01,228 - streamlit_app.utilities - INFO - Successfully inserted 4688 records from LOSS TIME JAN-2025_GRD.csv.
+2025-04-20 14:41:01,229 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME JAN-2025_GRD.csv
+2025-04-20 14:41:01,236 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME NOV-2024_GRD.csv
+2025-04-20 14:41:01,283 - streamlit_app.utilities - INFO - Read 2221 rows from LOSS TIME NOV-2024_GRD.csv
+2025-04-20 14:41:01,544 - streamlit_app.utilities - INFO - Attempting bulk insert for 2221 records from LOSS TIME NOV-2024_GRD.csv...
+2025-04-20 14:41:01,647 - streamlit_app.utilities - INFO - Successfully inserted 2221 records from LOSS TIME NOV-2024_GRD.csv.
+2025-04-20 14:41:01,648 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME NOV-2024_GRD.csv
+2025-04-20 14:41:01,653 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME OCT-2024_GRD.csv
+2025-04-20 14:41:01,703 - streamlit_app.utilities - INFO - Read 2624 rows from LOSS TIME OCT-2024_GRD.csv
+2025-04-20 14:41:01,994 - streamlit_app.utilities - INFO - Attempting bulk insert for 2624 records from LOSS TIME OCT-2024_GRD.csv...
+2025-04-20 14:41:02,113 - streamlit_app.utilities - INFO - Successfully inserted 2624 records from LOSS TIME OCT-2024_GRD.csv.
+2025-04-20 14:41:02,113 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME OCT-2024_GRD.csv
+2025-04-20 14:41:02,119 - streamlit_app.utilities - INFO - Starting processing for: LOSS TIME SEP-2024_GRD.csv
+2025-04-20 14:41:02,163 - streamlit_app.utilities - INFO - Read 3094 rows from LOSS TIME SEP-2024_GRD.csv
+2025-04-20 14:41:02,505 - streamlit_app.utilities - INFO - Attempting bulk insert for 3094 records from LOSS TIME SEP-2024_GRD.csv...
+2025-04-20 14:41:02,633 - streamlit_app.utilities - INFO - Successfully inserted 3094 records from LOSS TIME SEP-2024_GRD.csv.
+2025-04-20 14:41:02,634 - streamlit_app.utilities - INFO - Finished processing attempt for: LOSS TIME SEP-2024_GRD.csv
+2025-04-27 22:04:02,571 - backend.utilities - INFO - Logger configured.

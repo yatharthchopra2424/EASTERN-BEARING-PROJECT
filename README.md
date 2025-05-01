@@ -5,7 +5,7 @@
 
 https://github.com/user-attachments/assets/00b32016-5159-4627-8a74-0683d1c47637
 
-[progress report Mini project.pdf](https://github.com/user-attachments/files/19996720/progress.report.Mini.project.pdf)
+
 
 
 https://github.com/user-attachments/assets/21431ffd-9480-4c1a-98d6-5badc15447c1
